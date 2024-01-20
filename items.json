@@ -1,0 +1,54 @@
+{
+    "music":[
+        {
+            "id":1,
+            "name":"Kaleo",
+            "price":1255,
+            "imgName": "album1.webp"
+        },
+        {
+            "id":2,
+            "name":"The weekend",
+            "price":2133,
+            "imgName": "album2.webp"
+        },
+        {
+            "id":3,
+            "name":"album 33",
+            "price":1234,
+            "imgName": "album3.webp"
+        },
+        {
+            "id":4,
+            "name":"Jackson",
+            "price":124,
+            "imgName": "Album13.webp"
+        },
+        {
+            "id":4,
+            "name":"90's",
+            "price":134,
+            "imgName": "Album12.webp"
+        },
+        {
+            "id":4,
+            "name":"Deep",
+            "price":154,
+            "imgName": "i.webp"
+        }
+    ],
+    "merch": [
+        {
+            "id":5,
+            "name":"T-shirt pink floyd",
+            "price":3433,
+            "imgName": "L.webp"
+        },
+        {
+            "id":6,
+            "name":"T-shirt pink floyd",
+            "price":434,
+            "imgName": "Shirt.webp"
+        }
+    ]
+}
